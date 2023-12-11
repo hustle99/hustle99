@@ -1,28 +1,28 @@
-# Hello, I'm Prathmeh Jawalkar! 👋
+<!-- Header Section -->
+# 👋 Hello, I'm Prathmeh Jawalkar!
 
 ## About Me
-I am currently a Mainframe Developer with a passion for web development. My goal is to transition into a Full Stack Developer, and I'm excited about learning and growing in the world of technology.
+Greetings! I'm Prathmeh Jawalkar, a Mainframe Developer with big dreams of becoming a stellar Full Stack Developer. I thrive on challenges and am passionate about creating amazing web experiences.
 
-- 💼 Currently working as a Mainframe Developer
-- 🌱 Learning and exploring Full Stack Development
-- 🔭 Open to collaboration and learning new technologies
-- 🎓 Studied HTML, CSS, and JavaScript
+- 💼 Currently scripting Mainframe magic
+- 🌱 Learning the art of Full Stack Development
+- 🔭 Open to collaboration and hungry for knowledge
+- 🎓 Proficient in HTML, CSS, and JavaScript
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
+### 🚀 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Future Goals
-I aspire to become a proficient Full Stack Developer and contribute to exciting projects that push the boundaries of technology.
+I'm on a mission to evolve into a seasoned Full Stack Developer, pushing boundaries and contributing to groundbreaking projects.
 
 ## GitHub Stats
 ![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustle99&show_icons=true&theme=radical)
 
-## Contribution Graph
-To add a snake effect to your contribution graph, you can use the "github-readme-stats" repository by [anuraghazra](https://github.com/anuraghazra/github-readme-stats).
-
-Here's how you can implement it:
+## Contribution Graph 🐍
+Enhance your profile with a snake effect on your contribution graph!
 
 ```markdown
 ![Prathmeh Jawalkar's GitHub Contribution Graph with Snake](https://github.com/hustle99/hustle99/blob/main/github-contribution-snake.svg)
