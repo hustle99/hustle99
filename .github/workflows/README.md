@@ -32,7 +32,14 @@ Stay up-to-date with my progress through these stats:
 ##  Contribution Graph with a Twist!
 Bring your contribution graph to life with a slithering snake:
 
-![Prathmeh Jawalkar's GitHub Contribution Graph with Snake](https://github.com/hustle99/hustle99/blob/main/github-contribution-snake.svg)
 
 ##  Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
+
+LinkedIn: https://www.linkedin.com/company/prathmesh-jawalkar-b95000185/(icon of linked)
+Instagram: https://www.instagram.com/prathmesh-jawalkar-b95000185//?hl=en (icon of inst)
+
+
+![Prathmeh Jawalkar's GitHub Contribution Graph with Snake](https://github.com/hustle99/hustle99/blob/main/github-contribution-snake.svg)
+
+
