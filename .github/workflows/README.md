@@ -7,13 +7,14 @@ Greetings! I'm Prathmeh Jawalkar, a Mainframe Developer with big dreams of becom
 - 💼 Currently scripting Mainframe magic
 - 🌱 Learning the art of Full Stack Development
 - 🔭 Open to collaboration and hungry for knowledge
-- 🎓 Proficient in HTML, CSS, and JavaScript
+- 🎓 Proficient in HTML, CSS, JavaScript, and Java
 
 ## Skills
 ### 🚀 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## Future Goals
 I'm on a mission to evolve into a seasoned Full Stack Developer, pushing boundaries and contributing to groundbreaking projects.
