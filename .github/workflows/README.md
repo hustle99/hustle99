@@ -41,7 +41,7 @@ Bring your contribution graph to life with a slithering snake:
 ## Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh%20Jawalkar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/prathmesh-jawalkar-b95000185/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh%20Jawalkar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/prathmesh-jawalkar-b95000185/)
 [![Instagram](https://img.shields.io/badge/Instagram-Prathmesh%20Jawalkar-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prathmesh-jawalkar-b95000185//?hl=en)
 
 ## Learning Journey
