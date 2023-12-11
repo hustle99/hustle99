@@ -26,11 +26,6 @@ Demonstrating my proficiency through various technologies:
 ## Future Goals
 Embarking on a journey to evolve into a seasoned Full Stack Developer, pushing boundaries and contributing to groundbreaking projects that leave a positive impact.
 
-## GitHub Stats
-Stay up-to-date with my progress through these stats:
-
-![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
-
 
 ## GitHub Stats
 Stay up-to-date with my progress through these stats:
@@ -57,6 +52,6 @@ Feel free to share any insights or join me on this learning adventure!
 Enjoy coding and stay curious! 🚀
 
 ## Goodbye 👋
-It was great having you here! Here's a computer-themed goodbye:
+It was great having you here!
 
-![Goodbye GIF](https://media.giphy.com/media/3o7TKx1YhCOFgYe5rC/giphy.gif)
+![Goodbye GIF](<iframe src="https://giphy.com/gifs/vzO0Vc8b2VBLii" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>)
