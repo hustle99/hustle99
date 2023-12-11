@@ -5,13 +5,11 @@
 Greetings! I'm Prathmeh Jawalkar, a passionate Mainframe Developer with aspirations to become a stellar Full Stack Developer. I thrive on challenges and am driven by the desire to create amazing user experiences for the web.
 
 **Currently:**
-
 -  Scripting Mainframe magic
 -  Cultivating my Full Stack Development skills
 -  Open to exciting collaborations and eager to learn
 
 **Expert in:**
-
 -  COBOL, DB2, JCL (Mainframe technologies)
 
 ## Technologies & Tools
@@ -33,10 +31,10 @@ Stay up-to-date with my progress through these stats:
 
 ![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustle99&show_icons=true&theme=radical)
 
-## Contribution Graph with a Twist!
-Bring your contribution graph to life with a slithering snake:
+## Contribution Panel
+Track my contributions and activities:
 
-![Prathmeh Jawalkar's GitHub Contribution Graph with Snake](https://github.com/hustle99/hustle99/blob/main/github-contribution-snake.svg)
+![Contribution Panel](https://activity-graph.herokuapp.com/graph?username=hustle99&bg_color=ffffff&color=000000&line=000000&point=00ff00)
 
 ## Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
@@ -55,3 +53,5 @@ Always expanding my knowledge. Currently learning:
 Feel free to share any insights or join me on this learning adventure!
 
 Enjoy coding and stay curious! 🚀
+
+![Funny GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
