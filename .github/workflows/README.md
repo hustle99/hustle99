@@ -29,12 +29,14 @@ Embarking on a journey to evolve into a seasoned Full Stack Developer, pushing b
 ## GitHub Stats
 Stay up-to-date with my progress through these stats:
 
+![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+
+
+## GitHub Stats
+Stay up-to-date with my progress through these stats:
+
 ![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustle99&show_icons=true&theme=radical)
 
-## Contribution Panel
-Track my contributions and activities:
-
-![Contribution Panel](https://activity-graph.herokuapp.com/graph?username=hustle99&bg_color=ffffff&color=000000&line=000000&point=00ff00)
 
 ## Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
@@ -54,4 +56,7 @@ Feel free to share any insights or join me on this learning adventure!
 
 Enjoy coding and stay curious! 🚀
 
-![Funny GIF](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
+## Goodbye 👋
+It was great having you here! Here's a computer-themed goodbye:
+
+![Goodbye GIF](https://media.giphy.com/media/3o7TKx1YhCOFgYe5rC/giphy.gif)
