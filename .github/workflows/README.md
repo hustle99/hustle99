@@ -33,6 +33,11 @@ Stay up-to-date with my progress through these stats:
 ![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustle99&show_icons=true&theme=radical)
 
 
+#Leet Code stats
+Stay up-to-date with progress on problem solving
+
+![Prathmesh Jawalkar](https://leetcard.prathm19.cool/lapor?ext=heatmap)
+
 ## Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
 
