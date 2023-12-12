@@ -1,5 +1,5 @@
 <!-- Header Section -->
-# 👋 Hello, I'm Prathmeh Jawalkar!
+# 👋 Hello, I'm Prathmesh Jawalkar!
 
 ## About Me
 Greetings! I'm Prathmeh Jawalkar, a passionate Mainframe Developer with aspirations to become a stellar Full Stack Developer. I thrive on challenges and am driven by the desire to create amazing user experiences for the web.
@@ -36,8 +36,8 @@ Stay up-to-date with my progress through these stats:
 ## Let's Connect
 I'm always eager to connect with fellow developers and explore potential collaborations. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh%20Jawalkar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/prathmesh-jawalkar-b95000185/)
-[![Instagram](https://img.shields.io/badge/Instagram-Prathmesh%20Jawalkar-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prathmesh-jawalkar-b95000185//?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh%20Jawalkar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-jawalkar-b95000185/)
+[![Instagram](https://img.shields.io/badge/Instagram-Prathmesh%20Jawalkar-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prathm__19///?hl=en)
 
 ## Learning Journey
 Always expanding my knowledge. Currently learning:
@@ -54,4 +54,4 @@ Enjoy coding and stay curious! 🚀
 ## Goodbye 👋
 It was great having you here!
 
-![Goodbye GIF](<iframe src="https://giphy.com/gifs/vzO0Vc8b2VBLii" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>)
+![Goodbye GIF](<iframe src="https://giphy.com/embed/79ZFYdMsStRYI" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/goodbye-x-men-79ZFYdMsStRYI">via GIPHY</a></p>)
