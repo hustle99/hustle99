@@ -33,7 +33,7 @@ Stay up-to-date with my progress through these stats:
 ![Prathmeh Jawalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustle99&show_icons=true&theme=radical)
 
 
-##Leet Code stats
+## Leet Code stats
 Stay up-to-date with progress on problem solving
 
 ![Prathmesh Jawalkar](https://leetcard.jacoblin.cool/prathm19?ext=heatmap)
