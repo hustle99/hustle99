@@ -51,6 +51,9 @@ Always expanding my knowledge. Currently learning:
 - HTML
 - CSS
 - Java
+- React
+- Express Js
+- Mango DB
 
 Feel free to share any insights or join me on this learning adventure!
 
