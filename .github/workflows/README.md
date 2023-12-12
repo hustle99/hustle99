@@ -52,6 +52,7 @@ Feel free to share any insights or join me on this learning adventure!
 Enjoy coding and stay curious! 🚀
 
 ## Goodbye 👋
-It was great having you here!
+It was great having you here! 
 
-![Goodbye GIF](<iframe src="https://giphy.com/embed/79ZFYdMsStRYI" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/goodbye-x-men-79ZFYdMsStRYI">via GIPHY</a></p>)
+![Goodbye GIF](https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif)
+
